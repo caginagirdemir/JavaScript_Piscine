@@ -18,3 +18,6 @@
 | Math.floor() | it rounds the numbers|
 | object.length | it turns object length |
 | object.hasOwnProperty(prop) | it turn wheter object include prop |
+
+## ES6:
+<img src="img/result_2.png" width="480" height="320">
