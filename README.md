@@ -21,3 +21,11 @@
 
 ## ES6:
 <img src="img/result_2.png" width="480" height="320">
+
+
+## Regular Expressions:
+| Command | Description |
+| --- | --- |
+| test('/string/') | whether a string is into a string |
+| test('/string/i') | if there is i, it means no matter case sensitivity |
+| index<-match('/tofind') | it return index where the string in string. |
