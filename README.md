@@ -1,7 +1,7 @@
 # JavaScript_Piscine
 
 ## Basic JavaScript:
-<img src="img/result.png" width="480" height="320">
+:heavy_check_mark: %100
 
 | Command | Description |
 | --- | --- |
@@ -20,13 +20,13 @@
 | object.hasOwnProperty(prop) | it turn wheter object include prop |
 
 ## ES6:
-<img src="img/result_2.png" width="480" height="320">
+:heavy_check_mark: %100
 
 ## Regular Expressions:
-<img src="img/result_3.png" width="480" height="320">
+:heavy_check_mark: %100
 
 ## Debugging:
-<img src="img/result_4.png" width="480" height="320">
+:heavy_check_mark: %100
 
 | Command | Description |
 | --- | --- |
