@@ -22,6 +22,16 @@
 ## ES6:
 <img src="img/result_2.png" width="480" height="320">
 
-
 ## Regular Expressions:
 <img src="img/result_3.png" width="480" height="320">
+
+## Debugging:
+<img src="img/result_4.png" width="480" height="320">
+
+| Command | Description |
+| --- | --- |
+| console.log(variable) | it write on console from variable |
+| console.clear() | clear console |
+| typeof(variable) | it write on console type of variable |
+| console.log('string ${variable}') | write variable in console with string |
+
