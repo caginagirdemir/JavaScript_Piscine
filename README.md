@@ -28,6 +28,9 @@
 ## Debugging:
 :heavy_check_mark: %100
 
+## Basic Data Structure:
+:construction: 
+
 | Command | Description |
 | --- | --- |
 | console.log(variable) | it write on console from variable |
