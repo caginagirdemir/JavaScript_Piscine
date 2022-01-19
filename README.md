@@ -38,3 +38,11 @@
 | typeof(variable) | it write on console type of variable |
 | console.log('string ${variable}') | write variable in console with string |
 
+## Basic Algorithm Scripting:
+:construction: 
+
+| Command | Description |
+| --- | --- |
+| splitted_var = string_var.split(" ") | it turns ["first","second","thrid"] which seperated with " " |
+| for (let index in splitted_var) | it circulates in splitted_var with index |
+| array_var[index].charAt(index) | it get index in index. items in array_var |
