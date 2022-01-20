@@ -1,0 +1,18 @@
+function Dog(name) {
+    this.name = name;
+}
+
+Dog.prototype.numLegs = 4;
+
+let beagle = new Dog("Snoopy");
+console.log(beagle);
+let ownProps = [];
+let prototypeProps = [];
+
+for (let property in beagle) {
+    if (Dog.hasOwnProperty(property)) {
+        ownProps.push(property);
+    } else {
+        prototypeProps.push(property);
+    }
+}
