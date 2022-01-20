@@ -29,7 +29,7 @@
 :heavy_check_mark: %100
 
 ## Basic Data Structure:
-:construction: 
+:heavy_check_mark: %100
 
 | Command | Description |
 | --- | --- |
