@@ -22,6 +22,13 @@
 ## ES6:
 :heavy_check_mark: %100
 
+| Command | Description |
+| --- | --- |
+| var[a,b,c] | var[0] , var[1], var[2] |
+| Object.freeze | freeze a value in a variable |
+| array.concat(array2) | add array2 into array at end of array |
+
+
 ## Regular Expressions:
 :heavy_check_mark: %100
 
