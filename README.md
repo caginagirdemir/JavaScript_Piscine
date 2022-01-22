@@ -45,7 +45,6 @@
 | typeof(variable) | it write on console type of variable |
 | console.log('string ${variable}') | write variable in console with string |
 | Object.keys(obj) | it turns all elements of obj |
-| for(let index in usersObj) | it circulates as index in usersObj |
 
 ## Basic Algorithm Scripting:
 :construction: 
