@@ -47,7 +47,7 @@
 | Object.keys(obj) | it turns all elements of obj |
 
 ## Basic Algorithm Scripting:
-:construction: 
+:heavy_check_mark: %100
 
 | Command | Description |
 | --- | --- |
