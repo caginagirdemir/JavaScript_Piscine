@@ -44,6 +44,7 @@
 | console.clear() | clear console |
 | typeof(variable) | it write on console type of variable |
 | console.log('string ${variable}') | write variable in console with string |
+| Object.keys(obj) | it turns all elements of obj |
 
 ## Basic Algorithm Scripting:
 :construction: 
